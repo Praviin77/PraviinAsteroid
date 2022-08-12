@@ -33,7 +33,7 @@ public class Game extends JFrame implements KeyListener, ActionListener {
     public void init() throws MalformedURLException {
         this.setVisible(true);
         this.setSize(900, 600);
-        this.setTitle("Asteroids - by Vishal Premsankar");
+        this.setTitle("Asteroids - by Praviin Premsankar");
         this.setResizable(false);
         this.setDefaultCloseOperation(WindowConstants.EXIT_ON_CLOSE);
         this.addKeyListener(this);
